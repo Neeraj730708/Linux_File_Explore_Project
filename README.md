@@ -1,4 +1,5 @@
 Project Overview:
+
 In 2024, we developed a File Explorer application in C++ as a team of two. This lightweight application provides a simplified file management experience with a restricted feature set.
 
 Features:
